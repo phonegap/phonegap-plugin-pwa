@@ -1,0 +1,37 @@
+{
+    "name": "phonegap-plugin-pwa",
+    "description": "",
+    "version": "0.0.1",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/phonegap/phonegap-plugin-pwa.git"
+    },
+    "bugs": {
+        "url": "https://github.com/phonegap/phonegap-plugin-pwa/issues"
+    },
+    "homepage": "https://github.com/phonegap/phonegap-plugin-pwa",
+    "cordova": {
+        "id": "phonegap-plugin-pwa",
+        "platforms": [
+            "ios",
+            "android",
+            "windows"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "ecosystem:phonegap"
+    ],
+    "engines":{
+        "cordova" : ">=3.0.0"
+    },
+    "author": "",
+    "license": "MIT",
+    "scripts": {
+        "test": "jasmine-node --color spec"
+    },
+    "devDependencies": {
+        "jasmine-node": "1.14.5"
+    }
+}

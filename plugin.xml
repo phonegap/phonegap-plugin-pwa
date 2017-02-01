@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
+           id="phonegap-plugin-pwa"
+      version="0.0.1">
+    <name>phonegap-plugin-pwa</name>
+
+    <dependency id="phonegap-plugin-service-worker" url="https://github.com/phonegap/phonegap-plugin-service-worker" version="^1.0.0" />
+
+</plugin>
