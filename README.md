@@ -32,7 +32,7 @@ phonegap-plugin-pwa
 | -------------------- | :-----: | --: | ------: |
 | [Network Type & Speed](http://wicg.github.io/netinfo/) |         |     | :x:     |
 | [Online State](https://html.spec.whatwg.org/multipage/browsers.html#browser-state)         |         |     | :white_check_mark: |
-| [Vibration](https://w3c.github.io/vibration/)            |         |     | :white_check_mark: |
+| [Vibration](https://w3c.github.io/vibration/) | :white_check_mark: | :ballot_box_with_check: | :white_check_mark: |
 | [Battery Status](https://dvcs.w3.org/hg/dap/raw-file/default/battery/Overview.html)       |         |     | :white_check_mark: |
 
 ## Seamless Experience
@@ -58,7 +58,7 @@ phonegap-plugin-pwa
 | API                       | Android | iOS | Browser |
 | ------------------------  | :-----: | --: | ------: |
 | [Fullscreen](https://fullscreen.spec.whatwg.org/)                |         |     | :white_check_mark: |
-| [Screen Orientation & Lock](https://w3c.github.io/screen-orientation/) |         |     | :white_check_mark: |
+| [Screen Orientation & Lock](https://w3c.github.io/screen-orientation/) | :ballot_box_with_check: | :ballot_box_with_check: | :white_check_mark: |
 | [Wake Lock](https://w3c.github.io/wake-lock/)                 |         |     | :x:     |
 | [Presentation Features](https://w3c.github.io/presentation-api/)     |         |     | :white_check_mark: |
 
