@@ -48,10 +48,10 @@ phonegap-plugin-pwa
 
 | API                      | Android | iOS | Chrome | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Audio & Video Capture](https://whatwebcando.today/camera-microphone.html)    |         |     | :white_check_mark: | | |
-| [Advanced Camera Controls](https://w3c.github.io/mediacapture-image/) |         |     | :white_check_mark: | | |
-| [Recording Media](https://w3c.github.io/mediacapture-record/MediaRecorder.html)          |         |     | :white_check_mark: | | |
-| [Real-time Communication](https://w3c.github.io/webrtc-pc/)  |         |     | :white_check_mark: | | |
+| [Audio & Video Capture](https://whatwebcando.today/camera-microphone.html)    |         |     | :white_check_mark: | [cordova-plugin-media-capture](https://github.com/apache/cordova-plugin-media-capture) | [#9](https://github.com/phonegap/phonegap-plugin-pwa/issues/9) |
+| [Advanced Camera Controls](https://w3c.github.io/mediacapture-image/) |         |     | :white_check_mark: | [cordova-plugin-camera](https://github.com/apache/cordova-plugin-camera) | [#15](https://github.com/phonegap/phonegap-plugin-pwa/issues/15) |
+| [Recording Media](https://w3c.github.io/mediacapture-record/MediaRecorder.html)          |         |     | :white_check_mark: | [cordova-plugin-media](https://github.com/apache/cordova-plugin-media) | [#14](https://github.com/phonegap/phonegap-plugin-pwa/issues/14)|
+| [Real-time Communication](https://w3c.github.io/webrtc-pc/)  |         |     | :white_check_mark: | | [#21](https://github.com/phonegap/phonegap-plugin-pwa/issues/21) |
 
 ## Screen & Output
 
