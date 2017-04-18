@@ -15,7 +15,7 @@ phonegap-plugin-pwa
 | API                  | Android | iOS | Chrome | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
 | [Local Notifications](http://www.w3.org/TR/notifications/)  | :question: | :question: | :white_check_mark: | | [#16](https://github.com/phonegap/phonegap-plugin-pwa/issues/16) |
-| [Push Messages](https://w3c.github.io/push-api/)        | :question: | :question: | :white_check_mark: | [phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push) | [#3](https://github.com/phonegap/phonegap-plugin-pwa/issues/3) |
+| [Push Messages](https://w3c.github.io/push-api/) | :construction: | :construction: | :white_check_mark: | [phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push) | [#3](https://github.com/phonegap/phonegap-plugin-pwa/issues/3) |
 | [Foreground Detection](https://w3c.github.io/page-visibility/) | :white_check_mark: | :question: | :white_check_mark: | | |
 | [Permissions](https://w3c.github.io/permissions/) | :x: | :x: | :white_check_mark: | | [#17](https://github.com/phonegap/phonegap-plugin-pwa/issues/17) |
 
@@ -23,7 +23,7 @@ phonegap-plugin-pwa
 
 | API                  | Android | iOS | Chrome | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) | :question: | :question: | :white_check_mark: | | [#6](https://github.com/phonegap/phonegap-plugin-pwa/issues/6) |
+| [Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) | :construction: | :construction: | :white_check_mark: | [cordova-plugin-bluetooth-serial](https://github.com/don/BluetoothSerial) | [#6](https://github.com/phonegap/phonegap-plugin-pwa/issues/6) |
 | [NFC](https://w3c.github.io/web-nfc/) | :x: | :x: | :x: | | |
 | [Proximity Sensors](https://w3c.github.io/proximity/) | :x: | :x: | :x: | | |
 | [Ambient Light](https://w3c.github.io/ambient-light/) | :x: | :x: | :x: | | |
@@ -35,15 +35,15 @@ phonegap-plugin-pwa
 | [Network Type & Speed](http://wicg.github.io/netinfo/) | :white_check_mark: | :white_check_mark: | :x: | [cordova-plugin-network-information](https://github.com/apache/cordova-plugin-network-information) | |
 | [Online State](https://html.spec.whatwg.org/multipage/Chromes.html#Chrome-state) | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
 | [Vibration](https://w3c.github.io/vibration/) | :white_check_mark: | :ballot_box_with_check: | :white_check_mark: | [cordova-plugin-vibration](https://github.com/apache/cordova-plugin-vibration) | |
-| [Battery Status](https://dvcs.w3.org/hg/dap/raw-file/default/battery/Overview.html)       | :question: | :question: | :white_check_mark: | [cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status)  | [#8](https://github.com/phonegap/phonegap-plugin-pwa/issues/8) |
+| [Battery Status](https://dvcs.w3.org/hg/dap/raw-file/default/battery/Overview.html)       | :construction: | :construction: | :white_check_mark: | [cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status)  | [#8](https://github.com/phonegap/phonegap-plugin-pwa/issues/8) |
 
 ## Seamless Experience
 
 | API                      | Android | iOS | Chrome | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Offline Mode (i.e. ServiceWorkers)](https://www.w3.org/TR/service-workers/) | :question: | :question: | :white_check_mark: | [phonegap-plugin-service-worker](https://github.com/phonegap/phonegap-plugin-service-worker) | [#7](https://github.com/phonegap/phonegap-plugin-pwa/issues/7) |
+| [Offline Mode (i.e. ServiceWorkers)](https://www.w3.org/TR/service-workers/) | :construction: | :construction: | :white_check_mark: | [phonegap-plugin-service-worker](https://github.com/phonegap/phonegap-plugin-service-worker) | [#7](https://github.com/phonegap/phonegap-plugin-pwa/issues/7) |
 | [Home Screen Installation](https://w3c.github.io/manifest/) | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
-| [Background Sync](https://wicg.github.io/BackgroundSync/spec/) | :question: | :question: | :white_check_mark: | [cordova-plugin-service-worker-background-sync](https://github.com/MobileChromeApps/cordova-plugin-service-worker-background-sync) | [#18](https://github.com/phonegap/phonegap-plugin-pwa/issues/18) |
+| [Background Sync](https://wicg.github.io/BackgroundSync/spec/) | :construction: | :construction: | :white_check_mark: | [cordova-plugin-service-worker-background-sync](https://github.com/MobileChromeApps/cordova-plugin-service-worker-background-sync) | [#18](https://github.com/phonegap/phonegap-plugin-pwa/issues/18) |
 | [Inter-app Communication](https://www.w3.org/TR/web-intents/)  | :x: | :x: | :x: | | |
 
 ## Camera & Microphone
