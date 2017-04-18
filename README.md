@@ -57,10 +57,10 @@ phonegap-plugin-pwa
 
 | API                       | Android | iOS | Browser | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Fullscreen](https://fullscreen.spec.whatwg.org/)                |         |     | :white_check_mark: | | |
+| [Fullscreen](https://fullscreen.spec.whatwg.org/) | :x: | :x: | :white_check_mark: | | [#19](https://github.com/phonegap/phonegap-plugin-pwa/issues/19) |
 | [Screen Orientation & Lock](https://w3c.github.io/screen-orientation/) | :ballot_box_with_check: | :ballot_box_with_check: | :white_check_mark: |
-| [Wake Lock](https://w3c.github.io/wake-lock/)                 |         |     | :x:     | | |
-| [Presentation Features](https://w3c.github.io/presentation-api/)     |         |     | :white_check_mark: | | |
+| [Wake Lock](https://w3c.github.io/wake-lock/) | :x: | :x: | :x: | | |
+| [Presentation Features](https://w3c.github.io/presentation-api/)     | :x: | :x: | :white_check_mark: | | |
 
 ## Input
 
