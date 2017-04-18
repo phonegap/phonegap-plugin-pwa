@@ -75,10 +75,10 @@ phonegap-plugin-pwa
 
 | API                      | Android | iOS | Browser | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Geolocation](https://www.w3.org/TR/geolocation-API/)              |         |     | :white_check_mark: | | |
-| [Geofencing](https://w3c.github.io/geofencing-api/)               |         |     | :x:     | | |
-| [Device Orientation](https://w3c.github.io/deviceorientation/spec-source-orientation.html)       |         |     | :white_check_mark: | | |
-| [Device Motion](https://w3c.github.io/deviceorientation/spec-source-orientation.html#devicemotion)            |         |     | :white_check_mark: | | |
+| [Geolocation](https://www.w3.org/TR/geolocation-API/) | :ballot_box_with_check: | :ballot_box_with_check: | :white_check_mark: | [cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) | |
+| [Geofencing](https://w3c.github.io/geofencing-api/) | :x: | :x: | :x: | | |
+| [Device Orientation](https://w3c.github.io/deviceorientation/spec-source-orientation.html) | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
+| [Device Motion](https://w3c.github.io/deviceorientation/spec-source-orientation.html#devicemotion) | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
 
 ## Operating System
 
