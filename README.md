@@ -39,10 +39,10 @@ phonegap-plugin-pwa
 
 | API                      | Android | iOS | Browser | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Offline Mode (i.e. ServiceWorkers)](https://www.w3.org/TR/service-workers/)             |         |     | :white_check_mark: | | |
-| [Home Screen Installation](https://w3c.github.io/manifest/) |         |     | :white_check_mark: | | |
-| [Background Sync](https://wicg.github.io/BackgroundSync/spec/)          |         |     | :white_check_mark: | | |
-| [Inter-app Communication](https://www.w3.org/TR/web-intents/)  |         |     | :x:     | | |
+| [Offline Mode (i.e. ServiceWorkers)](https://www.w3.org/TR/service-workers/)             |         |     | :white_check_mark: | [phonegap-plugin-service-worker](https://github.com/phonegap/phonegap-plugin-service-worker) | [#7](https://github.com/phonegap/phonegap-plugin-pwa/issues/7) |
+| [Home Screen Installation](https://w3c.github.io/manifest/) | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
+| [Background Sync](https://wicg.github.io/BackgroundSync/spec/) | :x: | :x: | :white_check_mark: | [cordova-plugin-service-worker-background-sync](https://github.com/MobileChromeApps/cordova-plugin-service-worker-background-sync) | [#18](https://github.com/phonegap/phonegap-plugin-pwa/issues/18) |
+| [Inter-app Communication](https://www.w3.org/TR/web-intents/)  | :x: | :x: | :x: | | |
 
 ## Camera & Microphone
 
