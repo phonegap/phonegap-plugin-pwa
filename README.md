@@ -66,10 +66,10 @@ phonegap-plugin-pwa
 
 | API                      | Android | iOS | Browser | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Touch Gestures](https://w3c.github.io/touch-events/)           |         |     | :white_check_mark: | | |
-| [Speech Recognition](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html#speechreco-section)       |         |     | :white_check_mark: | | |
-| [Copy & Paste](https://w3c.github.io/clipboard-apis/)             |         |     | :white_check_mark: | | |
-| [Pointing Device](https://www.w3.org/TR/mediaqueries-4/#mf-interaction)          |         |     | :white_check_mark: | | |
+| [Touch Gestures](https://w3c.github.io/touch-events/) | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
+| [Speech Recognition](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html#speechreco-section) | :ballot_box_with_check: | :ballot_box_with_check: | :white_check_mark: | [cordova-plugin-speech-recognition](https://github.com/macdonst/SpeechRecognitionPlugin) | |
+| [Copy & Paste](https://w3c.github.io/clipboard-apis/) | :white_check_mark: |     | :white_check_mark: | | |
+| [Pointing Device](https://www.w3.org/TR/mediaqueries-4/#mf-interaction)          | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
 
 ## Location & Position
 
