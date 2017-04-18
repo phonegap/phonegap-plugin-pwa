@@ -21,10 +21,10 @@ phonegap-plugin-pwa
 
 | API                  | Android | iOS | Browser | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)            |         |     | :white_check_mark: | | |
-| [NFC](https://w3c.github.io/web-nfc/)                  |         |     | :x:     | | |
-| [Proximity Sensors](https://w3c.github.io/proximity/)    |         |     | :x:     | | |
-| [Ambient Light](https://w3c.github.io/ambient-light/)        |         |     | :x:     | | |
+| [Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) | :x: | :x: | :white_check_mark: | | [#6](https://github.com/phonegap/phonegap-plugin-pwa/issues/6) |
+| [NFC](https://w3c.github.io/web-nfc/) | :x: | :x: | :x: | | |
+| [Proximity Sensors](https://w3c.github.io/proximity/) | :x: | :x: | :x: | | |
+| [Ambient Light](https://w3c.github.io/ambient-light/) | :x: | :x: | :x: | | |
 
 ## Device Features
 
