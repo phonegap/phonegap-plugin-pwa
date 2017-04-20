@@ -14,7 +14,7 @@ phonegap-plugin-pwa
 
 | API                  | Android | iOS | Chrome | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Local Notifications](http://www.w3.org/TR/notifications/)  | :question: | :question: | :white_check_mark: | | [#16](https://github.com/phonegap/phonegap-plugin-pwa/issues/16) |
+| [Local Notifications](http://www.w3.org/TR/notifications/)  | :ballot_box_with_check: | :ballot_box_with_check: | :white_check_mark: | [phonegap-plugin-local-notification](https://github.com/phonegap/phonegap-plugin-local-notification)| [#16](https://github.com/phonegap/phonegap-plugin-pwa/issues/16) |
 | [Push Messages](https://w3c.github.io/push-api/) | :construction: | :construction: | :white_check_mark: | [phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push) | [#3](https://github.com/phonegap/phonegap-plugin-pwa/issues/3) |
 | [Foreground Detection](https://w3c.github.io/page-visibility/) | :white_check_mark: | :question: | :white_check_mark: | | |
 | [Permissions](https://w3c.github.io/permissions/) | :x: | :x: | :white_check_mark: | | [#17](https://github.com/phonegap/phonegap-plugin-pwa/issues/17) |
