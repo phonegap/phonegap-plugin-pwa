@@ -6,7 +6,7 @@
     <name>phonegap-plugin-pwa</name>
 
     <dependency id="phonegap-plugin-service-worker" url="https://github.com/phonegap/phonegap-plugin-service-worker" version="^1.0.0" />
-    <!-- dependency id="phonegap-plugin-battery-status" url="https://github.com/phonegap/phonegap-plugin-battery-status" version="^1.0.0" / -->
+    <dependency id="phonegap-plugin-battery-status" version="^1.0.0" />
     <dependency id="phonegap-plugin-local-notification" version="^1.0.0" />
 
     <!-- core plugins -->
