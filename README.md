@@ -35,7 +35,7 @@ phonegap-plugin-pwa
 | [Network Type & Speed](http://wicg.github.io/netinfo/) | :white_check_mark: | :white_check_mark: | :x: | [cordova-plugin-network-information](https://github.com/apache/cordova-plugin-network-information) | |
 | [Online State](https://html.spec.whatwg.org/multipage/Chromes.html#Chrome-state) | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
 | [Vibration](https://w3c.github.io/vibration/) | :white_check_mark: | :ballot_box_with_check: | :white_check_mark: | [cordova-plugin-vibration](https://github.com/apache/cordova-plugin-vibration) | |
-| [Battery Status](https://dvcs.w3.org/hg/dap/raw-file/default/battery/Overview.html)       | :construction: | :construction: | :white_check_mark: | [cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status)  | [#8](https://github.com/phonegap/phonegap-plugin-pwa/issues/8) |
+| [Battery Status](https://dvcs.w3.org/hg/dap/raw-file/default/battery/Overview.html)       | :construction: | :construction: | :white_check_mark: | [phonegap-plugin-battery-status](https://github.com/phonegap/phonegap-plugin-battery-status)  | [#8](https://github.com/phonegap/phonegap-plugin-pwa/issues/8) |
 
 ## Seamless Experience
 
