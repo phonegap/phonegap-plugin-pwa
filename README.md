@@ -50,7 +50,7 @@ phonegap-plugin-pwa
 
 | API                      | Android | iOS | Chrome | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Audio & Video Capture](https://whatwebcando.today/camera-microphone.html)    | :question: | :question: | :white_check_mark: | [https://github.com/phonegap/phonegap-plugin-media-stream](https://github.com/phonegap/phonegap-plugin-media-stream) | [#9](https://github.com/phonegap/phonegap-plugin-pwa/issues/9) |
+| [Audio & Video Capture](https://whatwebcando.today/camera-microphone.html)    | :question: | :question: | :white_check_mark: | [phonegap-plugin-media-stream](https://github.com/phonegap/phonegap-plugin-media-stream) | [#9](https://github.com/phonegap/phonegap-plugin-pwa/issues/9) |
 | [Advanced Camera Controls](https://w3c.github.io/mediacapture-image/) | :question: | :question: | :white_check_mark: | [phonegap-plugin-image-capture](https://github.com/phonegap/phonegap-plugin-image-capture) | [#15](https://github.com/phonegap/phonegap-plugin-pwa/issues/15) |
 | [Recording Media](https://w3c.github.io/mediacapture-record/MediaRecorder.html)          | :question: | :question: | :white_check_mark: | [cordova-plugin-media](https://github.com/apache/cordova-plugin-media) | [#14](https://github.com/phonegap/phonegap-plugin-pwa/issues/14)|
 | [Real-time Communication](https://w3c.github.io/webrtc-pc/)  | :question: | :question: | :white_check_mark: | | [#21](https://github.com/phonegap/phonegap-plugin-pwa/issues/21) |
