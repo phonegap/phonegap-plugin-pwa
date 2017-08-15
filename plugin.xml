@@ -8,6 +8,8 @@
     <dependency id="phonegap-plugin-service-worker" url="https://github.com/phonegap/phonegap-plugin-service-worker" version="^1.0.0" />
     <dependency id="phonegap-plugin-battery-status" version="^1.0.0" />
     <dependency id="phonegap-plugin-local-notification" version="^1.0.0" />
+    <dependency id="phonegap-plugin-media-stream" version="^1.0.0" />
+    <dependency id="phonegap-plugin-image-capture" version="^1.0.0" />
 
     <!-- core plugins -->
     <dependency id="cordova-plugin-network-information" version="^1.3.0" />
