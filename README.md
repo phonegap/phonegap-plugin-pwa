@@ -23,7 +23,7 @@ phonegap-plugin-pwa
 
 | API                  | Android | iOS | Chrome | Plugin | Issue |
 | -------------------- | ------- | --- | ------- | ------ | ----- |
-| [Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) | :construction: | :construction: | :white_check_mark: | [cordova-plugin-bluetooth-serial](https://github.com/don/BluetoothSerial) | [#6](https://github.com/phonegap/phonegap-plugin-pwa/issues/6) |
+| [Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) | :construction: | :construction: | :white_check_mark: | [cordova-plugin-ble-central](https://github.com/don/cordova-plugin-ble-central) | [#6](https://github.com/phonegap/phonegap-plugin-pwa/issues/6) |
 | [NFC](https://w3c.github.io/web-nfc/) | :x: | :x: | :x: | | |
 | [Proximity Sensors](https://w3c.github.io/proximity/) | :x: | :x: | :x: | | |
 | [Ambient Light](https://w3c.github.io/ambient-light/) | :x: | :x: | :x: | | |
