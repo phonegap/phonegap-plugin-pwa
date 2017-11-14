@@ -1,7 +1,7 @@
 {
   "name": "phonegap-plugin-pwa",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/phonegap/phonegap-plugin-pwa",
   "repository": {
     "type": "git",
@@ -12,9 +12,16 @@
   },
   "cordova": {
     "id": "phonegap-plugin-pwa",
-    "platforms": ["ios", "android", "windows"]
+    "platforms": [
+      "ios",
+      "android",
+      "windows"
+    ]
   },
-  "keywords": ["ecosystem:cordova", "ecosystem:phonegap"],
+  "keywords": [
+    "ecosystem:cordova",
+    "ecosystem:phonegap"
+  ],
   "engines": {
     "cordova": ">=3.0.0"
   },
