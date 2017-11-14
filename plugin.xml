@@ -10,6 +10,6 @@
     <dependency id="phonegap-plugin-media-recorder" version="^1.1.0" />
     <!-- core plugins -->
     <dependency id="cordova-plugin-network-information" version="^1.3.0" />
-    <dependency id="cordova-plugin-geolocation" version="^2.4.2" />
+    <dependency id="cordova-plugin-geolocation" version="^3.0.0" />
     <dependency id="cordova-plugin-vibration" version="^2.1.4" />
 </plugin>
