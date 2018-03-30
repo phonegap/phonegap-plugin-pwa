@@ -90,3 +90,4 @@ phonegap-plugin-pwa
 | [File Access](https://w3c.github.io/FileAPI/) | :question: | :question: | :white_check_mark: | | |
 | Contacts | :question: | :question: | :x: | | |
 | [Storage Quotas](https://w3c.github.io/quota-api/)           | :question: | :question: | :white_check_mark: | | |
+| [Remote Cordova API Access](https://github.com/TruckMovers/cordova-plugin-remote-injection) | :white_check_mark: | :white_check_mark: | :question: | | | 
